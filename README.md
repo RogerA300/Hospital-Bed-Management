@@ -86,13 +86,6 @@ The goal is to demonstrate **data analytics and visualization skills** in a hosp
 
 ---
 
-# Next Steps  
-- Integrate **real scheduling data** for more realistic staffing analysis.  
-- Build an interactive **Power BI dashboard** for dynamic visuals.  
-- Explore **predictive modeling** (e.g., admissions forecasting) using scikit-learn.  
-
----
-
   
 **Roger Anderson**  
  * Data Analyst | SQL • Python • Power BI*  
